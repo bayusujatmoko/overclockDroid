@@ -14,6 +14,6 @@
 3. type "su" without quotes
 4. type "cpup" without quotes
 5. if work, check the changed of your cpu governor and cpu clockspeed using CPU-Z app
-6. After you see that, uninstall Root Explorer and CPU-Z to save your RAM. This step is optional, up to you :)
+6. After you see that, uninstall Root Explorer and CPU-Z to save more RAM. This step is optional, up to you :)
 
 
